@@ -75,7 +75,7 @@ def preprocess_df(df):
     return X,Y
 
 
-df = pd.read_csv('dataset_titanic.csv')
+df = pd.read_csv('./datasets/dataset_titanic.csv')
 print('\t*** Dataset Info. ***')
 print(df.info())
 print('\n\n')

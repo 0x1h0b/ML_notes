@@ -234,7 +234,7 @@ f_list = data.feature_names
 
 
 # # iris dataset
-# iris_data = pd.read_csv('iris.csv')
+# iris_data = pd.read_csv('./datasets/iris.csv')
 # iris_data['species'].value_counts()
 # dd={
 #     'Iris-setosa':0,

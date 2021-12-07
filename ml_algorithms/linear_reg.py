@@ -43,7 +43,7 @@ def gradient_descent(x,y, alpha, epoch):
     return theta,cost_values
 
 
-df = pd.read_csv('dataset_reg.csv')
+df = pd.read_csv('./datasets/dataset_reg.csv')
 print('\tDataset Info.')
 print(df.info())
 print('\n\n')
