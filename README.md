@@ -3,7 +3,7 @@
 
 
 **./ml_algorithms/** <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Implementaions of ML algorithms from scratch ( tested on actual dataset )
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Implementations of ML algorithms from scratch ( tested on actual dataset )
 <br />
 <br />
 **./HandsOn_ML/** <br />
