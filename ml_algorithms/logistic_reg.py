@@ -6,6 +6,8 @@ Important points :
         - make sure the vector dimensions are as expected before doing numpy operations 
         - Confusion matrix and classification report
 
+    initialize parameters --> classify/predict --> get gradient --> update --> get loss ->repeat
+
 By - 0x1h0b
 
 '''
